@@ -1,0 +1,163 @@
+Running ' PBQA-6 : Enlace - Papel de los ingenieros' 20:06:53
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:06:54
+2.setWindowSize on 771x693 OK20:06:54
+3.runScript on window.scrollTo(0,3060) OK20:06:54
+4.mouseDownAt on linkText=Papel de los ingenieros with value 120,14.949996948242188 OK20:06:57
+5.mouseMoveAt on linkText=Papel de los ingenieros with value 120,14.949996948242188 OK20:06:57
+6.mouseUpAt on linkText=Papel de los ingenieros with value 120,14.949996948242188 OK20:06:59
+7.click on linkText=Papel de los ingenieros OK20:07:00
+' PBQA-6 : Enlace - Papel de los ingenieros' completed successfully 20:07:00
+Running ' PBQA-8 : Enlace - Calidad de software ' 20:07:01
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:01
+2.setWindowSize on 771x693 OK20:07:02
+3.runScript on window.scrollTo(0,798) OK20:07:02
+4.runScript on window.scrollTo(0,2856) OK20:07:06
+5.click on linkText=Calidad de software OK20:07:07
+' PBQA-8 : Enlace - Calidad de software ' completed successfully 20:07:11
+Running ' PBQA-12 : Enlace - ¿Qué es programación por Ncapas? ' 20:07:12
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:13
+2.setWindowSize on 771x693 OK20:07:13
+3.click on linkText=¿Qué es programación por Ncapas? OK20:07:14
+' PBQA-12 : Enlace - ¿Qué es programación por Ncapas? ' completed successfully 20:07:19
+Running ' PBQA-13 : Enlace - Algoritmos de software' 20:07:20
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:21
+2.setWindowSize on 771x693 OK20:07:21
+3.runScript on window.scrollTo(0,723) OK20:07:22
+4.click on linkText=Algoritmos de software OK20:07:25
+' PBQA-13 : Enlace - Algoritmos de software' completed successfully 20:07:28
+Running ' PBQA-14 : Enlace - Principios de programación' 20:07:29
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:31
+2.setWindowSize on 771x693 OK20:07:32
+3.click on linkText=Principios de programación OK20:07:32
+' PBQA-14 : Enlace - Principios de programación' completed successfully 20:07:40
+Running ' PBQA-19 : Enlace - Foundation Level – Técnicas' 20:07:41
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:42
+2.setWindowSize on 771x693 OK20:07:43
+3.runScript on window.scrollTo(0,986) OK20:07:43
+4.runScript on window.scrollTo(0,2448) OK20:07:51
+5.click on linkText=Foundation Level – Técnicas OK20:07:51
+' PBQA-19 : Enlace - Foundation Level – Técnicas' completed successfully 20:07:55
+Running ' PBQA-20 : Enlace - Fundamentos de la gerencia de proyectos en desarrollo de software' 20:07:55
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:07:57
+2.setWindowSize on 771x693 OK20:07:57
+3.runScript on window.scrollTo(0,1291) OK20:07:58
+4.runScript on window.scrollTo(0,3829) OK20:08:12
+5.click on linkText=Fundamentos de la gerencia de proyectos en desarrollo de software OK20:08:13
+' PBQA-20 : Enlace - Fundamentos de la gerencia de proyectos en desarrollo de software' completed successfully 20:08:15
+Running ' PBQA-24 : Buscar trabajos - 2 parametros' 20:08:15
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:08:16
+2.setWindowSize on 771x693 OK20:08:17
+3.runScript on window.scrollTo(0,993) OK20:08:17
+4.runScript on window.scrollTo(0,1632) OK20:08:23
+5.click on id=search_location OK20:08:24
+6.type on id=search_location with value Bogota OK20:08:28
+7.click on id=search_keywords OK20:08:28
+8.type on id=search_keywords with value Tester OK20:08:29
+9.click on css=input:nth-child(1) OK20:08:29
+' PBQA-24 : Buscar trabajos - 2 parametros' completed successfully 20:08:30
+Running ' PBQA-25 : Visualización de la oferta' 20:08:30
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:08:31
+2.setWindowSize on 771x693 OK20:08:31
+3.runScript on window.scrollTo(0,2646) OK20:08:31
+4.runScript on window.scrollTo(0,2550) OK20:08:36
+5.click on css=.post-7457 h3 OK20:08:39
+6.mouseOver on linkText=Medellín OK20:08:40
+7.mouseOut on linkText=Medellín OK20:08:46
+' PBQA-25 : Visualización de la oferta' completed successfully 20:08:47
+Running 'PBQA-3 : Cargue enlaces externos - Youtube' 20:08:47
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:08:49
+2.setWindowSize on 1382x744 OK20:08:49
+3.selectFrame on index=0 OK20:08:50
+4.click on linkText=Estamos probando el mundo OK20:08:58
+5.selectWindow on handle=${win6190} OK20:09:01
+'PBQA-3 : Cargue enlaces externos - Youtube' completed successfully 20:09:02
+Running 'PBQA-4 : Enlace - Modelo de calidad de software' 20:09:03
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:09:06
+2.setWindowSize on 771x693 OK20:09:08
+3.runScript on window.scrollTo(0,494) OK20:09:10
+4.runScript on window.scrollTo(0,2856) OK20:09:20
+5.click on linkText=Modelo de calidad de software OK20:09:21
+'PBQA-4 : Enlace - Modelo de calidad de software' completed successfully 20:09:23
+Running 'PBQA-5 : Enlace - Diferencia entre calidad de software y pruebas' 20:09:24
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:09:26
+2.setWindowSize on 771x693 OK20:09:27
+3.click on linkText=Diferencia entre calidad de software y pruebas OK20:09:27
+'PBQA-5 : Enlace - Diferencia entre calidad de software y pruebas' completed successfully 20:09:39
+Running 'PBQA-7 : Enlace - El software en la economía actual' 20:09:40
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:09:43
+2.setWindowSize on 771x693 OK20:09:44
+3.mouseOver on css=.mob-standard-logo OK20:09:44
+4.mouseOut on css=.mob-standard-logo OK20:09:58
+5.runScript on window.scrollTo(0,1179) OK20:10:00
+6.click on linkText=El software en la economía actual OK20:10:04
+'PBQA-7 : Enlace - El software en la economía actual' completed successfully 20:10:06
+Running 'PBQA-9 : Enlace - Los errores del software' 20:10:07
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:10:11
+2.setWindowSize on 771x693 OK20:10:12
+3.click on linkText=Los errores del software OK20:10:12
+'PBQA-9 : Enlace - Los errores del software' completed successfully 20:10:45
+Running 'PBQA-10 : Enlace - Fundamentos ingeniería de software' 20:10:46
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:10:51
+2.setWindowSize on 771x693 OK20:10:52
+3.runScript on window.scrollTo(0,3162) OK20:10:53
+4.click on linkText=Fundamentos ingeniería de software OK20:11:12
+'PBQA-10 : Enlace - Fundamentos ingeniería de software' completed successfully 20:11:14
+Running 'PBQA-11 : Enlace - Manual práctico de SQL' 20:11:14
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:11:18
+2.setWindowSize on 771x693 OK20:11:19
+3.runScript on window.scrollTo(0,1968) OK20:11:19
+4.runScript on window.scrollTo(0,3754) OK20:11:33
+5.click on linkText=Manual práctico de SQL OK20:11:34
+'PBQA-11 : Enlace - Manual práctico de SQL' completed successfully 20:11:37
+Running 'PBQA-15 : Enlace - Marcos de trabajo de software: ágiles/tradicionales' 20:11:37
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:11:41
+2.setWindowSize on 771x693 OK20:11:41
+3.runScript on window.scrollTo(0,2621) OK20:11:42
+4.runScript on window.scrollTo(0,3162) OK20:11:58
+5.click on linkText=Marcos de trabajo de software: ágiles/tradicionales OK20:12:01
+'PBQA-15 : Enlace - Marcos de trabajo de software: ágiles/tradicionales' completed successfully 20:12:04
+Running 'PBQA-16 : Enlace - Marcos de trabajo de prueba' 20:12:04
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:12:11
+2.setWindowSize on 771x693 OK20:12:12
+3.runScript on window.scrollTo(0,3390) OK20:12:14
+4.click on linkText=Marcos de trabajo de pruebas OK20:12:38
+'PBQA-16 : Enlace - Marcos de trabajo de prueba' completed successfully 20:12:42
+Running 'PBQA-17 : Enlace - ¿Qué son los riesgos del proyecto y de producto?' 20:12:42
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:12:47
+2.setWindowSize on 1382x744 OK20:12:48
+3.runScript on window.scrollTo(0,312) OK20:12:49
+4.click on linkText=¿Qué son los riesgos del proyecto y de producto? OK20:12:59
+'PBQA-17 : Enlace - ¿Qué son los riesgos del proyecto y de producto?' completed successfully 20:13:03
+Running 'PBQA-18 : Enlace - Técnicas de caja negra' 20:13:04
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:13:11
+2.setWindowSize on 1382x744 OK20:13:13
+3.runScript on window.scrollTo(0,105) OK20:13:14
+4.runScript on window.scrollTo(0,1911) OK20:13:50
+5.click on linkText=Técnicas de caja negra OK20:13:53
+'PBQA-18 : Enlace - Técnicas de caja negra' completed successfully 20:14:07
+Running 'PBQA-21 : Enlace - ¿Cuáles son las actividades de la Gestión de Proyectos?' 20:14:09
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:14:25
+2.setWindowSize on 771x693 OK20:14:32
+3.runScript on window.scrollTo(0,3412) OK20:14:33
+4.click on linkText=¿Cuáles son las actividades de la Gestión de Proyectos? OK20:14:54
+5.mouseOver on linkText=¿Cuáles son las actividades de la Gestión de Proyectos? OK20:14:57
+6.mouseOut on linkText=¿Cuáles son las actividades de la Gestión de Proyectos? OK20:15:02
+7.mouseOver on linkText=¿Cuáles son las actividades de la Gestión de Proyectos? OK20:15:08
+'PBQA-21 : Enlace - ¿Cuáles son las actividades de la Gestión de Proyectos?' completed successfully 20:15:11
+Running 'PBQA-22 : Buscar trabajos - Campos vacios' 20:15:12
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:15:33
+2.setWindowSize on 771x693 OK20:15:39
+3.runScript on window.scrollTo(0,1123) OK20:15:42
+4.runScript on window.scrollTo(0,2040) OK20:16:11
+5.mouseOver on css=input:nth-child(1) OK20:16:13
+6.click on css=input:nth-child(1) OK20:16:15
+7.mouseOut on css=input:nth-child(1) OK20:16:16
+'PBQA-22 : Buscar trabajos - Campos vacios' completed successfully 20:16:23
+Running 'PBQA-23 : Buscar trabajos - 1 parametro ' 20:16:23
+1.open on https://www.choucairtesting.com/empleos-2/ OK20:16:36
+2.setWindowSize on 771x693 OK20:16:37
+3.runScript on window.scrollTo(0,2346) OK20:16:37
+4.click on id=search_location OK20:17:01
+5.type on id=search_location with value Bogota OK20:17:03
+6.click on css=input:nth-child(1) OK20:17:04
+'PBQA-23 : Buscar trabajos - 1 parametro ' completed successfully 20:17:07
